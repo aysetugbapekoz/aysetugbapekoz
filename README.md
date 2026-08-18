@@ -187,11 +187,13 @@ Real-time Computer Vision system designed to detect driver fatigue and potential
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aysetugbapekoz&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="./profile/stats.svg" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysetugbapekoz&layout=compact&hide_border=true" />
+<img height="170" src="./profile/top-langs.svg" />
 
 </div>
 
