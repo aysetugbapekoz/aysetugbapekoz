@@ -185,7 +185,7 @@ Real-time Computer Vision system designed to detect driver fatigue and potential
 
 ---
 
-## 📊 GitHub Analytics
+
 
 ## 📊 GitHub Analytics
 
